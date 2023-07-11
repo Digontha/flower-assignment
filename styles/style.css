@@ -137,5 +137,19 @@ height: 420px;
     gap: 24px;
 }
 .insta-img{
-    width: 250px;
+    width: 220px;
+}
+.ld{
+    text-align: center;
+    margin: 0px 240px 128px;
+    background-image: url('../image/Rectangle\ 9.png');
+    padding: 122px;
+}
+.ld-input{
+    border-radius: 8px;
+background-color: #FFF;
+padding: 22px;
+border: none;
+width: 400px;
+margin-right: 16px;
 }
