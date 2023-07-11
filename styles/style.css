@@ -156,6 +156,27 @@ border: none;
 width: 400px;
 margin-right: 16px;
 }
+.contact{
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 100px 240px;
+    text-align: center;
+}
+.contact input , .contact textarea{
+    border-radius: 5px;
+background-color: #FFF;
+padding: 22px;
+border: none;
+width: 100%;
+margin: 10px;
+resize: none;
+}
+.contact-1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contact-2{
+    display: flex;
+}
 .footer{
     background-color: #111010;
     text-align: center;
