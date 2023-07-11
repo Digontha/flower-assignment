@@ -126,3 +126,16 @@ gap: 150px;
     width: 318px;
 height: 420px;
 }
+.insta{
+    padding: 128px 240px;
+    text-align: center;
+}
+.insta-imgs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+}
+.insta-img{
+    width: 250px;
+}
