@@ -13,6 +13,9 @@ body{
     padding: 20px 40px;
     cursor: pointer;
 }
+span{
+    color:  #E55473;
+}
 .banner-content{
     display: flex;
     justify-content: space-between;
@@ -152,4 +155,26 @@ padding: 22px;
 border: none;
 width: 400px;
 margin-right: 16px;
+}
+.footer{
+    background-color: #111010;
+    text-align: center;
+    padding: 128px;
+}
+.heading-3{
+    color: white;
+font-size: 48px;
+font-weight: 800;
+}
+.text-3{
+    color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding: 24px 0px 32px;
+}
+.text-4{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
 }
